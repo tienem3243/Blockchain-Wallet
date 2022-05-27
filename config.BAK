@@ -1,0 +1,12 @@
+#Thu Feb 25 16:20:42 ICT 2021
+usr.password=tuananh1
+role.admin=Qu\u1EA3n tr\u1ECB vi\u00EAn
+db.url=jdbc\:mysql\://localhost\:3306/QLSV
+version=1.0
+db.user=root
+usr.username=tuanvu
+role.guest=Guest
+role.member=Th\u00E0nh vi\u00EAn
+usr.role=Th\u00E0nh vi\u00EAn
+db.password=
+rememberMe=true
